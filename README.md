@@ -8,6 +8,8 @@ Built user interfaces using **HTML**, **CSS**, **JavaScript**, **React**, and **
 
 Currently looking for a Junior Frontend Developer position where I can contribute to real products, grow professionally, and strengthen my skills in a collaborative team environment.
 
+---
+
 ## 🛠 Tech Stack
 
 | **Area** | **Skills & Tools** |
@@ -16,6 +18,8 @@ Currently looking for a Junior Frontend Developer position where I can contribut
 | **State Management** | Zustand |
 | **Data & API** | REST API \| Axios \| fetch |
 | **Tools & Version Control** | Git \| GitHub \| npm |
+
+---
 
 ## 💻 Featured Projects
 
